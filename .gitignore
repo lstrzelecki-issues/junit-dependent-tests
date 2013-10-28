@@ -1,0 +1,10 @@
+# Gradle
+build
+.gradle
+gradle
+
+# Idea
+out
+.idea/
+*.iml
+atlassian-ide-plugin.xml
