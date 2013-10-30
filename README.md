@@ -1,3 +1,6 @@
+# How to run
+run `runme.sh` script
+
 # Configuration
 ## App.class
 Whole Spring context - assemblies 'Functionality contexts'. Its delivered to production application.
