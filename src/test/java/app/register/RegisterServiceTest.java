@@ -13,38 +13,42 @@ public class RegisterServiceTest {
     private RegisterService service;
 
     @Test
-    public void test1() {
+    public void someRegisterServiceTest0() {
     }
 
     @Test
-    public void test2() {
+    public void someRegisterServiceTest1() {
     }
 
     @Test
-    public void test3() {
+    public void someRegisterServiceTest2() {
     }
 
     @Test
-    public void test4() {
+    public void someRegisterServiceTest3() {
     }
 
     @Test
-    public void test5() {
+    public void someRegisterServiceTest4() {
     }
 
     @Test
-    public void test6() {
+    public void someRegisterServiceTest5() {
     }
 
     @Test
-    public void test7() {
+    public void someRegisterServiceTest6() {
     }
 
     @Test
-    public void test8() {
+    public void someRegisterServiceTest7() {
     }
 
     @Test
-    public void test9() {
+    public void someRegisterServiceTest8() {
+    }
+
+    @Test
+    public void someRegisterServiceTest9() {
     }
 }

@@ -6,9 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import app.register.RegisterService;
-import app.register.Registering;
-
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = Logging.class)
 public class LoginServiceTest {
@@ -16,38 +13,42 @@ public class LoginServiceTest {
     private LoginService service;
 
     @Test
-    public void test1() {
+    public void someLoginServiceTest0() {
     }
 
     @Test
-    public void test2() {
+    public void someLoginServiceTest1() {
     }
 
     @Test
-    public void test3() {
+    public void someLoginServiceTest2() {
     }
 
     @Test
-    public void test4() {
+    public void someLoginServiceTest3() {
     }
 
     @Test
-    public void test5() {
+    public void someLoginServiceTest4() {
     }
 
     @Test
-    public void test6() {
+    public void someLoginServiceTest5() {
     }
 
     @Test
-    public void test7() {
+    public void someLoginServiceTest6() {
     }
 
     @Test
-    public void test8() {
+    public void someLoginServiceTest7() {
     }
 
     @Test
-    public void test9() {
+    public void someLoginServiceTest8() {
+    }
+
+    @Test
+    public void someLoginServiceTest9() {
     }
 }
